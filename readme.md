@@ -23,7 +23,7 @@
    ```sh
    cd unifaat-frontend-tf-aula02-css-seletores
    ```
-oi
+
 3. Subir a aplicação com Docker Compose:
 
    > Docker Compose tradicional:
