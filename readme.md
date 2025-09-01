@@ -18,7 +18,7 @@
    git clone https://github.com/luan-tavares/unifaat-frontend-tf-aula02-css-seletores
    ```
 
-2. Entrar na pasta do projeto:
+2. Entrar na pasta do projeto
 
    ```sh
    cd unifaat-frontend-tf-aula02-css-seletores
